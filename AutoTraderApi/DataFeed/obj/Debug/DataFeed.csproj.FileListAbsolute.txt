@@ -1,0 +1,8 @@
+E:\Trading\AutoTraderApi\DataFeed\bin\Debug\DataFeed.dll
+E:\Trading\AutoTraderApi\DataFeed\bin\Debug\DataFeed.pdb
+E:\Trading\AutoTraderApi\DataFeed\bin\Debug\NCrontab.Advanced.dll
+E:\Trading\AutoTraderApi\DataFeed\obj\Debug\DataFeed.csprojAssemblyReference.cache
+E:\Trading\AutoTraderApi\DataFeed\obj\Debug\DataFeed.csproj.CoreCompileInputs.cache
+E:\Trading\AutoTraderApi\DataFeed\obj\Debug\DataFeed.csproj.CopyComplete
+E:\Trading\AutoTraderApi\DataFeed\obj\Debug\DataFeed.dll
+E:\Trading\AutoTraderApi\DataFeed\obj\Debug\DataFeed.pdb

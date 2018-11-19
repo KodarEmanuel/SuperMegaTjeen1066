@@ -1,0 +1,13 @@
+E:\Trading\AutoTraderApi\Console\bin\Debug\Console.exe.config
+E:\Trading\AutoTraderApi\Console\bin\Debug\Console.exe
+E:\Trading\AutoTraderApi\Console\bin\Debug\Console.pdb
+E:\Trading\AutoTraderApi\Console\obj\Debug\Console.csprojAssemblyReference.cache
+E:\Trading\AutoTraderApi\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+E:\Trading\AutoTraderApi\Console\obj\Debug\Console.exe
+E:\Trading\AutoTraderApi\Console\obj\Debug\Console.pdb
+E:\Trading\AutoTraderApi\Console\bin\Debug\DataFeed.dll
+E:\Trading\AutoTraderApi\Console\bin\Debug\LocalData.dll
+E:\Trading\AutoTraderApi\Console\bin\Debug\NCrontab.Advanced.dll
+E:\Trading\AutoTraderApi\Console\bin\Debug\DataFeed.pdb
+E:\Trading\AutoTraderApi\Console\bin\Debug\LocalData.pdb
+E:\Trading\AutoTraderApi\Console\obj\Debug\Console.csproj.CopyComplete

@@ -1,0 +1,6 @@
+E:\Trading\AutoTraderApi\LocalData\bin\Debug\LocalData.dll
+E:\Trading\AutoTraderApi\LocalData\bin\Debug\LocalData.pdb
+E:\Trading\AutoTraderApi\LocalData\obj\Debug\LocalData.csprojAssemblyReference.cache
+E:\Trading\AutoTraderApi\LocalData\obj\Debug\LocalData.csproj.CoreCompileInputs.cache
+E:\Trading\AutoTraderApi\LocalData\obj\Debug\LocalData.dll
+E:\Trading\AutoTraderApi\LocalData\obj\Debug\LocalData.pdb
